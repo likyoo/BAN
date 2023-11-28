@@ -1,1 +1,1 @@
-# BAN
+# Bi-Temporal Adapter Network for Remote Sensing Image Change Detection
