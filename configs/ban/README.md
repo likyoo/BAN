@@ -12,7 +12,7 @@ Change detection (CD) is a critical task in observing and analyzing the dynamic 
 <!-- [IMAGE] -->
 
 <div align=center>
-<img src="https://github.com/likyoo/BAN/assets/44317497/1c752c2e-aa16-438b-9244-386754ae5d2f" width="90%"/>
+<img src="https://github.com/likyoo/BAN/assets/44317497/1c752c2e-aa16-438b-9244-386754ae5d2f" width="100%"/>
 </div>
 
 
