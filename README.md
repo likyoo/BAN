@@ -1,5 +1,4 @@
-# Bi-Temporal Adapter Network for Remote Sensing Image Change Detection
-
+# BAN: A New Learning Paradigm for Foundation Model-based Remote Sensing Change Detection
 
 
 Our code is developed on top of [Open-CD v1.1.0](https://github.com/likyoo/open-cd/tree/main).
