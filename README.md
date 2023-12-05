@@ -93,3 +93,15 @@ python train.py configs/ban/ban_vit-l14-clip_mit-b0_512x512_40k_levircd.py
 ```
 
 **Note**: You can download pretrained files from [here](https://huggingface.co/likyoo/BAN/tree/main/pretrain).
+
+
+### Citation
+
+```bibtex
+@article{li2023new,
+      title={A New Learning Paradigm for Foundation Model-based Remote Sensing Change Detection}, 
+      author={Li, Kaiyu and Cao, Xiangyong and Meng, Deyu},
+      journal={arXiv preprint arXiv:2312.01163},
+      year={2023}
+}
+```
