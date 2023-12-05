@@ -19,7 +19,12 @@ Change detection (CD) is a critical task to observe and analyze dynamic processe
 
 
 ```bibtex
-
+@article{li2023new,
+      title={A New Learning Paradigm for Foundation Model-based Remote Sensing Change Detection}, 
+      author={Li, Kaiyu and Cao, Xiangyong and Meng, Deyu},
+      journal={arXiv preprint arXiv:2312.01163},
+      year={2023}
+}
 ```
 
 ## Results and models
