@@ -28,7 +28,7 @@ pip install -U openmim
 mim install mmengine==0.10.1
 mim install mmcv==2.1.0
 mim install mmpretrain==1.1.1
-pip install mmsegmentation==1.2.1
+pip install mmsegmentation==1.2.2
 pip install mmdet==3.2.0
 ```
 
