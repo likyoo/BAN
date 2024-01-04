@@ -67,7 +67,7 @@ To evaluate our `BAN` on LEVIR-CD test, run:
 python test.py <config-file> <checkpoint>
 ```
 
-You can download checkpoint files from [here](https://huggingface.co/likyoo/BAN/tree/main/checkpoint).
+You can download checkpoint files from [huggingface](https://huggingface.co/likyoo/BAN/tree/main/checkpoint) | [baidu disk](https://pan.baidu.com/s/1RkIGsOB3XBi7Oi6mKIpZ2w?pwd=kfp9).
 
 For example, to evaluate the `BAN-vit-l14-clip_mit-b0` with a single GPU:
 
@@ -89,7 +89,7 @@ For example, to train the `BAN-vit-l14-clip_mit-b0` with a single GPU on LEVIR-C
 python train.py configs/ban/ban_vit-l14-clip_mit-b0_512x512_40k_levircd.py
 ```
 
-**Note**: You can download pretrained files from [here](https://huggingface.co/likyoo/BAN/tree/main/pretrain).
+**Note**: You can download pretrained files from [huggingface](https://huggingface.co/likyoo/BAN/tree/main/pretrain) | [baidu disk](https://pan.baidu.com/s/1RkIGsOB3XBi7Oi6mKIpZ2w?pwd=kfp9).
 
 
 ### Citation
