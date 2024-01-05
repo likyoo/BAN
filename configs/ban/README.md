@@ -18,6 +18,7 @@ Change detection (CD) is a critical task to observe and analyze dynamic processe
 
 
 
+
 ```bibtex
 @article{li2023new,
       title={A New Learning Paradigm for Foundation Model-based Remote Sensing Change Detection}, 
@@ -40,6 +41,8 @@ Change detection (CD) is a critical task to observe and analyze dynamic processe
 |  BAN   |    ViT-L/14, CLIP    | ChangeFormer-b2 |  512x512  |  40000  |   93.61   | 91.02  |  92.30   | 85.69 | [config](https://github.com/likyoo/BAN/blob/main/configs/ban/ban_vit-l14-clip_mit-b2_512x512_40k_levircd.py) |
 |  BAN   | ViT-B/32, RemoteCLIP | ChangeFormer-b0 |  512x512  |  40000  |   93.28   | 90.26  |  91.75   | 84.75 | [config](https://github.com/likyoo/BAN/blob/main/configs/ban/ban_vit-b32-remoteclip_mit-b0_512x512_40k_levircd.py) |
 |  BAN   | ViT-L/14, RemoteCLIP | ChangeFormer-b0 |  512x512  |  40000  |   93.44   | 90.46  |  91.92   | 85.05 | [config](https://github.com/likyoo/BAN/blob/main/configs/ban/ban_vit-l14-remoteclip_mit-b0_512x512_40k_levircd.py) |
+|  BAN   | ViT-B/32, GeoRSCLIP  | ChangeFormer-b0 |  512x512  |  40000  |   93.35   | 90.24  |  91.77   | 84.79 | [config](https://github.com/likyoo/BAN/blob/main/configs/ban/ban_vit-b32-georsclip_mit-b0_512x512_40k_levircd.py) |
+|  BAN   | ViT-L/14, GeoRSCLIP  | ChangeFormer-b0 |  512x512  |  40000  |   93.50   | 90.48  |  91.96   | 85.13 | [config](https://github.com/likyoo/BAN/blob/main/configs/ban/ban_vit-l14-georsclip_mit-b0_512x512_40k_levircd.py) |
 |  BAN   |   ViT-B/16, IN-21K   | ChangeFormer-b0 |  512x512  |  40000  |   93.59   | 89.80  |  91.66   | 84.60 | [config](https://github.com/likyoo/BAN/blob/main/configs/ban/ban_vit-b16-in21k_mit-b2_512x512_40k_levircd.py) |
 |  BAN   |   ViT-L/16, IN-21K   | ChangeFormer-b0 |  512x512  |  40000  |   93.27   | 90.11  |  91.67   | 84.61 | [config](https://github.com/likyoo/BAN/blob/main/configs/ban/ban_vit-l16-in21k_mit-b0_512x512_40k_levircd.py) |
 
