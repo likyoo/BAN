@@ -2,6 +2,9 @@
 
 Official implementation for the paper ["A New Learning Paradigm for Foundation Model-based Remote Sensing Change Detection"](https://arxiv.org/abs/2312.01163), the code is developed on top of [Open-CD v1.1.0](https://github.com/likyoo/open-cd/tree/main).
 
+## News
+- 2/10/2024 - BAN is supported in [Open-CD](https://github.com/likyoo/open-cd). :yum:
+
 ## Usage
 
 ### Install
