@@ -1,6 +1,6 @@
 # BAN
 
-[A New Learning Paradigm for Foundation Model-based Remote Sensing Change Detection]()
+[A New Learning Paradigm for Foundation Model-based Remote Sensing Change Detection](https://arxiv.org/abs/2312.01163)
 
 ## Introduction
 
